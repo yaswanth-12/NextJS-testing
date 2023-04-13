@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <head>
         <title> Idk..... </title>
-        <link rel="icon" src="https://yaswanth-12.github.io/NextJS-testing/favicon.ico" />
+        <link rel="icon" href="https://yaswanth-12.github.io/NextJS-testing/favicon.ico" />
         <meta name="viewport" content="width=500, initial-scale=1" />
       </head>
       <main>
