@@ -6,7 +6,7 @@ export default function Navbar() {
     <>
       <nav className={styles.nav}>
         <ul>
-          {navelements(<img src='../public/favicon.ico' ></img>)}
+          {navelements(<img src='https://yaswanth-12.github.io/NextJS-testing/favicon.ico' ></img>)}
           <span className={styles.red}> {navelements("Home")} </span>
           {navelements("About")}
           {navelements("Portfolio")}
