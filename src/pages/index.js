@@ -6,11 +6,11 @@ import Cards from '../components/Cards'
 export default function Home() {
   return (
     <>
-      <head>
+      <div>
         <title> Idk..... </title>
         <link rel="icon" href='https://yaswanth-12.github.io/NextJS-testing/favicon.ico' />
         <meta name="viewport" content="width=500, initial-scale=1" />
-      </head>
+      </div>
       <main>
         <Navbar />
         <Main />
